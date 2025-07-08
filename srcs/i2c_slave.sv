@@ -3,9 +3,9 @@
 // Company: 
 // Engineer: 
 // 
-// Create Date: 30.06.2025 23:04:12
+// Create Date: 30.06.2025 23:06:12
 // Design Name: 
-// Module Name: i2c_master
+// Module Name: i2c_slave
 // Project Name: 
 // Target Devices: 
 // Tool Versions: 
